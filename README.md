@@ -1,6 +1,6 @@
 # spDYN updater
 
-Update your IPv4/IPv6 IP on spdns.de:
+Update your IPv4/IPv6 on spdyn.de:
 
 ## Return codes
 ```
